@@ -29,7 +29,6 @@ VocaStock/
 ├── stock.db
 ├── stock_text_to_sql.py
 ├── ai_text_to_sql.py
-├── vocastock_app.py
 │
 └── vocastock-ui/
     ├── public/
